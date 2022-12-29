@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/React_ToDo_Plan/static/css/main.62920314.css",
+    "main.js": "/React_ToDo_Plan/static/js/main.0aeeaa46.js",
+    "static/js/787.2afbd57d.chunk.js": "/React_ToDo_Plan/static/js/787.2afbd57d.chunk.js",
+    "index.html": "/React_ToDo_Plan/index.html",
+    "main.62920314.css.map": "/React_ToDo_Plan/static/css/main.62920314.css.map",
+    "main.0aeeaa46.js.map": "/React_ToDo_Plan/static/js/main.0aeeaa46.js.map",
+    "787.2afbd57d.chunk.js.map": "/React_ToDo_Plan/static/js/787.2afbd57d.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.62920314.css",
+    "static/js/main.0aeeaa46.js"
+  ]
+}
